@@ -9,3 +9,13 @@
     overflow: hidden;
     background-color: #141414;
 }
+
+.logo{
+    text-decoration: none;
+    color: white;
+    padding-left: 40px;
+}
+
+.header-links{
+    display: flex;
+}
