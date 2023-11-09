@@ -26,3 +26,13 @@
     margin: 40px 20px;
     background-color: white;
 }
+
+.product-image{
+    width: 100%;
+    min-width: 286px;
+    max-height: 180px;
+    display: block;
+}
+.product-name{
+    margin: 10px 0px;
+}
