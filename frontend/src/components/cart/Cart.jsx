@@ -48,3 +48,5 @@ function Cart({ cartItems, handleAddProduct, handleRemoveProduct, handleCartClea
 }
 
 export default Cart;
+
+//making changes for testing
